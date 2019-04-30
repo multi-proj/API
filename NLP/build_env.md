@@ -5,8 +5,9 @@ pip upgrade --user pip
 
 [JPype1](https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype)
 
-# wheel version
+**wheel version**
 
+</br>
 #### CPP 설치하기
 
 : tensorflow 사용환경 구축
