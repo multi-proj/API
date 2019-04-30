@@ -36,6 +36,8 @@ print(response.data.decode('utf8'))
 
 
 **사용가능 음성파일** according to [Etri Homepage](http://aiopen.etri.re.kr/guide_recognition.php)
+
+
  :  음성인식에 사용하기 위해 샘플링 주파수(sampling rate 또는 sampling frequency) 16kHz로 녹음된 음성 파일
  
  
