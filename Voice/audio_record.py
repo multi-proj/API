@@ -37,4 +37,4 @@ wf.setframerate(RATE)
 wf.writeframes(b''.join(frames))
 wf.close()
 
-**record audio using 'audio_record.py' --> This will output a 'output.wav' file**
+
