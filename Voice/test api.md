@@ -31,5 +31,5 @@ response = http.request(
  
 print("[responseCode] " + str(response.status))
 print("[responBody]")
-print(response.data)
+print(response.data.decode('utf8'))
 ```
