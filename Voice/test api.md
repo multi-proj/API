@@ -1,5 +1,6 @@
 #### first trial
 
+```
 import urllib3
 import json
 import base64
@@ -31,3 +32,4 @@ response = http.request(
 print("[responseCode] " + str(response.status))
 print("[responBody]")
 print(response.data)
+```
